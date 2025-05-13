@@ -1,10 +1,5 @@
-# Calculadora Python 🧮
+# Calculadora Python
 
-Realiza operações: soma, subtração, multiplicação, divisão e potenciação com validação de entrada.
+![CI](https://github.com/Maria-arantes/Calculadora_python/actions/workflows/python-app.yml/badge.svg)
 
-![Build Status](https://github.com/Maria-arantes/Calculadora/actions/workflows/python-app.yml/badge.svg)
-
-## Como usar
-
-```bash
-python calculadora.py
+Este projeto é uma calculadora em Python que realiza soma, subtração, multiplicação, divisão e potenciação...
